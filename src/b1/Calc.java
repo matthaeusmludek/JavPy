@@ -23,6 +23,7 @@ public class Calc {
 		float mul = x*y;
 		float div = x/y;
 		float sub = x-y;		
+	
 		System.out.println(sum);
 		System.out.println(mul);
 		System.out.println(div);
